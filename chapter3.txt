@@ -1,0 +1,2 @@
+This is chapter 3 ,continuation of the dummy 
+repository to learn more about git bash commands.

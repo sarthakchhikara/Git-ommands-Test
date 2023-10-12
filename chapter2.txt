@@ -1,3 +1,3 @@
 this is the practice of git commit using command line in visula studio 
-code. this is chapter 2 in the Dummy repository 
-made in C/users/sarth/Downloads/Dummy. 
+code. this is chapter 2 in the Dummy repository .
+
